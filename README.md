@@ -16,7 +16,7 @@ Make Sure Java is Installed on your machine. You can verify by running:
 ```bash
 java -version
 ```
-If Java is not installed, download and install the latest version of the [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html)Java JDK.
+If Java is not installed, download and install the latest version of the [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html).
 
 ## Run the Game
 
